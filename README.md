@@ -1,4 +1,4 @@
-# AI
+# In Task_Titanic
 Titanic Survival Analysis by Gender and Outcome
 Project Overview
 In this project, I analyzed the Titanic dataset to examine whether age is distributed similarly across four passenger groups, based on gender and survival status:
