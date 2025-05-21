@@ -31,8 +31,6 @@ Split the dataset into four groups based on gender and survival status.
 
 Distribution Analysis
 
-Plotted histograms and Q-Q plots for each group.
-
 Performed the Shapiro-Wilk test to check for normality in the age distributions.
 
 Statistical Testing
@@ -50,7 +48,5 @@ Libraries Used
 pandas
 
 numpy
-
-matplotlib / seaborn
 
 scipy.stats
